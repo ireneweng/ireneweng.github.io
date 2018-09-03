@@ -454,7 +454,7 @@ li.current-menu-item a {
 
 .breadcrumbs li {
     position: relative;
-    color: rgb(148,183,250);
+    color: #191919;
     padding: 0 12px;
 }
 
@@ -476,7 +476,7 @@ li.current-menu-item a {
 }
 
 .breadcrumbs li a {
-    color: #191919;
+    color: rgb(148,183,250);
     text-decoration: none;
 }
 
