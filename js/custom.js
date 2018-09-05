@@ -16,4 +16,12 @@
             scrollTop: $( '.scroll-down' ).offset().top + 100
         }, 800 );
     });
+    
+    // Light Box
+    $('.lightbox').on('click', '[data-toggle="lightbox"]', function(event) {
+        event.preventDefault();
+        $(this).ekkoLightbox();
+        
+    });
+    
 })(jQuery);
