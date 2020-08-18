@@ -1618,12 +1618,12 @@ pre code {
 }
 
 .table-hover .table-primary:hover {
-  background-color: #febc7f;
+  background-color: #9fcdff;
 }
 
 .table-hover .table-primary:hover > td,
 .table-hover .table-primary:hover > th {
-  background-color: #febc7f;
+  background-color: #9fcdff;
 }
 
 .table-secondary,
@@ -4550,7 +4550,7 @@ tbody.collapse.show {
 }
 
 .alert-primary hr {
-  border-top-color: #febc7f;
+  border-top-color: #9fcdff;
 }
 
 .alert-primary .alert-link {
@@ -4806,7 +4806,7 @@ a.list-group-item-primary:focus, a.list-group-item-primary:hover,
 button.list-group-item-primary:focus,
 button.list-group-item-primary:hover {
   color: #004085;
-  background-color: #febc7f;
+  background-color: #9fcdff;
 }
 
 a.list-group-item-primary.active,
