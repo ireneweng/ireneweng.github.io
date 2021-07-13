@@ -58,7 +58,7 @@ a {
 }
 
 .bio {
-  margin-bottom: 0px;
+  margin-bottom: 20px;
   font-family: Lora, sans-serif;
   color: #83888d;
   font-size: 20px;
@@ -178,8 +178,8 @@ a {
   }
 
   .rightcontent {
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding-top: 40px;
+    padding-bottom: 40px;
   }
 
   .links {
