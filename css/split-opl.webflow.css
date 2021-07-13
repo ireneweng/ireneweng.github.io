@@ -36,6 +36,7 @@ a {
 }
 
 .tagline {
+  margin-top: 10px;
   margin-bottom: 0px;
   color: #fab5a0;
   font-family: 'Josefin Slab', serif;
@@ -89,7 +90,10 @@ a {
 
 .rightcontent {
   overflow: auto;
-  padding: 100px;
+  padding-top: 70px;
+  padding-bottom: 80px;
+  padding-left: 100px;
+  padding-right: 100px;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
@@ -178,8 +182,8 @@ a {
   }
 
   .rightcontent {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
   }
 
   .links {
