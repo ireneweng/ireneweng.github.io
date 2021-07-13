@@ -36,7 +36,7 @@ a {
 }
 
 .tagline {
-  margin-bottom: 20px;
+  margin-bottom: 0px;
   color: #fab5a0;
   font-family: 'Josefin Slab', serif;
   font-size: 25px;
@@ -58,7 +58,7 @@ a {
 }
 
 .bio {
-  margin-bottom: 20px;
+  margin-bottom: 0px;
   font-family: Lora, sans-serif;
   color: #83888d;
   font-size: 20px;
@@ -89,7 +89,7 @@ a {
 
 .rightcontent {
   overflow: auto;
-  padding: 80px;
+  padding: 100px;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
@@ -178,8 +178,8 @@ a {
   }
 
   .rightcontent {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 
   .links {
