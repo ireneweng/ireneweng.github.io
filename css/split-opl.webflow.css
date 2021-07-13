@@ -205,9 +205,9 @@ a {
   .image {
     position: static;
     height: 420px;
-    max-height: 50vh;
+    max-height: 100vh;
     min-height: auto;
-    background-position: 50% 0%;
+    background-position: 50% 30%;
   }
 }
 
@@ -241,7 +241,8 @@ a {
 
   .image {
     height: 240px;
-    max-height: 30vh;
+    max-height: 50vh;
+    background-position: 50% 30%;
   }
 }
 
